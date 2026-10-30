@@ -11,7 +11,15 @@ Algorithm:
 7. Stop.
 
 if else program:
+
 Aim:implement re module in python
 
 Algorithm:
-
+1. Start.
+2. Read email ID or mobile number from the user.
+3. Define regular expression patterns for email ID and mobile number.
+4. Check the entered data using re.fullmatch().
+5. If the email pattern matches, print "Invalid email id".
+6. Else if the mobile number pattern matches, print "Invalid Mobile number".
+7. Otherwise, print "Invalid email id or Invalid Mobile number".
+8. Stop.

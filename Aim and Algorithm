@@ -1,4 +1,17 @@
+Simple Program:
+
 Aim: implement re module in python
+Algorithm:
+1. Start.
+2. Read the date from the user.
+3. Define a regular expression pattern for DD/MM/YYYY.
+4. Check the entered date using re.fullmatch().
+5. If the pattern matches, print "Given valid date".
+6. Otherwise, print "Invalid".
+7. Stop.
+
+if else program:
+Aim:implement re module in python
 
 Algorithm:
 
